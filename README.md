@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Ivan Territo, aka @Fhyrel
-- 👀 I’m interested in innovation, smart choices and ideas.
-- 🌱 I’m currently learning Spanish and Portuguese languages, I love those countries and I hope to live there in future.
-- 💞️ I’m looking to collaborate on interesing and innovative projects projected to the future.
-- 📫 You can reach me by email: ivan.territo@hotmail.it,
-      or on my LinkedIn profile: https://www.linkedin.com/in/ivan-territo/
-
+- 👋 Hi, I’m Ivan Territo
+- 👀 I’m interested in innovation, smart (and green) technologies, networking and I love to constantly improve myself and my knowledge.
+- 🌱 I can speak English, Italian, Sicilian (it's like another language), Spanish, and I’m currently learning Portuguese and Lithuanian.
+- 💞️ I’m looking to collaborate on interesting and innovative projects projected to the future.
+- 💻 The programming languages I used: Dart, Android, Kotlin, Swift, Javascript, Typescript, Angular, C#, PHP, SQL, HTML.
+- 💻 The frameworks I used: Flutter, VueJS, React, Angular, Laravel, WordPress, JQuery.
+- 📫 You can reach me by email: ivan.territo@gmail.com,
+      my LinkedIn profile: https://www.linkedin.com/in/ivan-territo/
+      my website: https://www.ivanterrito.it/en/app-and-web-development/
+  
 <!---
 Fhyrel/Fhyrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
